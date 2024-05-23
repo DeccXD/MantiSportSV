@@ -836,7 +836,6 @@ h2 {
 
 .pack{
     padding-bottom: 2%;
-    margin-left: -2%;
 }
 
 .pack:hover{
@@ -982,7 +981,7 @@ a.nav-linkP:hover{
 
 /** Calendario **/
 h2.TextCal {
-    font-family: fantasy;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
     font-size: 56px;
     color: rgb(255, 255, 255);
