@@ -146,7 +146,7 @@ h1.titulo1{
     color: white;
     font-size: 56px;
     text-align: center;
-    font-family: fantasy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: -3px 2px 0px #31C900, -4px 4px 0px red;
 }
 
@@ -154,14 +154,14 @@ h1.titulo{
     color: white;
     font-size: 56px;
     text-align: center;
-    font-family: fantasy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: -3px 2px 0px #31C900, -4px 4px 0px red;
 }
 h1.titulo2{
   color: white;
   font-size: 56px;
   text-align: center;
-  font-family: fantasy;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-shadow: -3px 2px 0px #31C900, -4px 4px 0px red;
 }
 div.contenido1{
@@ -531,7 +531,7 @@ div.content{
     outline: 0;
 }
 .contact-info{
-    background: #2000f3;
+    background: #08f300;
     max-width: 100%;
     margin: 5.2%;
 }
